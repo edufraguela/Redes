@@ -1,0 +1,450 @@
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:27:35 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:27:35 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET /errores.log HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:27:35 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 158
+
+Línea Peticion: GET /accesos.log HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:27:35 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 475
+
+Línea Peticion: GET /fic.png HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:13 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 13320
+
+Línea Peticion: GET /index.html HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:13 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: GET /accesos.log HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:13 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 973
+
+Línea Peticion: GET /index.html HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: GET /index.html HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: GET /udc.gif HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: GET /fic.png HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 13320
+
+Línea Peticion: GET /LICENSE.txt HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 579
+
+Línea Peticion: HEAD /index.html HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: HEAD /udc.gif HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:30:44 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: GET /MiServlet.do?nombre=Alex&primerApellido=tonto&segundoApellido=jeje HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:33:16 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET /archives HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:33:16 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET /Error403.html HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 262
+
+Línea Peticion: GET /Error404.html HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 257
+
+Línea Peticion: GET /Error400.html HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 264
+
+Línea Peticion: GET /jeje HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:35:52 CET 2019
+
+Codigo de estado: 304
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET /jejejeejej HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 304
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET / HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 0
+
+Línea Peticion: GET /LICENSE.txt HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 579
+
+Línea Peticion: GET /httptester.jar HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 2099915
+
+Línea Peticion: GET /udc.gif HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: GET /configuracion.properties HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:37:26 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 163
+
+Línea Peticion: GET /configuracion.properties HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Mon Feb 25 19:44:49 CET 2019
+
+Codigo de estado: 200
+
+Tamaño del objeto: 152
+
+Línea Peticion: GET /index.html HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: GET /index.html HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: GET /udc.gif HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: GET /fic.png HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 13320
+
+Línea Peticion: GET /LICENSE.txt HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 579
+
+Línea Peticion: HEAD /index.html HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
+
+Línea Peticion: HEAD /udc.gif HTTP/1.0
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:50:31 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: GET /udc.gif HTTP/1.1
+
+Direccion IP del cliente: /0:0:0:0:0:0:0:1
+
+Fecha: Fri Mar 27 14:52:06 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: HEAD /udc.gif HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:52:18 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 4250
+
+Línea Peticion: GET /index.html HTTP/1.1
+
+Direccion IP del cliente: /127.0.0.1
+
+Fecha: Fri Mar 27 14:53:27 CET 2020
+
+Codigo de estado: 200
+
+Tamaño del objeto: 216
